@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "retrieved_standards": [
+      "IS1786",
+      "IS456",
+      "IS269"
+    ],
+    "latency_seconds": 0.766
+  },
+  {
+    "id": "2",
+    "retrieved_standards": [
+      "IS1786",
+      "IS456",
+      "IS269"
+    ],
+    "latency_seconds": 0.627
+  }
+]
